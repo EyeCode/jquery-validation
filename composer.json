@@ -23,7 +23,9 @@
                 "src/core.js"
             ],
             "files": [
-                "src/*"
+                "src/*",
+                "src/additional/*",
+                "src/localization/*"
             ]
         }
     }
