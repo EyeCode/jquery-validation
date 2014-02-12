@@ -12,7 +12,9 @@
         "Jörn Zaefferer <joern.zaefferer@gmail.com>"
       ],
     "scripts": [
-        "src/code.js"
+        "src/code.js",
+        "src/additional/*",
+        "src/localization/*"
     ],
     "license": "MIT"
 }
