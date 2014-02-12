@@ -1,0 +1,30 @@
+{
+    "name": "eyecode/jquery-validation",
+    "description": "Form validation made easy",
+    "type": "component",
+    "homepage": "http://jqueryvalidation.org/",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/jzaefferer/jquery-validation/issues",
+        "source": "https://github.com/jzaefferer/jquery-validation"
+    },
+    "authors": [
+        {
+            "name": "Jörn Zaefferer",
+            "email": "joern.zaefferer@gmail.com"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "src/core.js"
+            ],
+            "files": [
+                "src/*"
+            ]
+        }
+    }
+}
